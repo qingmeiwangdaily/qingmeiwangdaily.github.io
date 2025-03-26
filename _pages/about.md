@@ -37,7 +37,7 @@ Feel free to reach her at <qingmeiwang@ruc.edu.cn> for collaborations or discuss
   - *The Web Conference workshop 2025.* 
  
 -**Hierarchical Contrastive Learning for Temporal Point Processes**
-  - <u>Qingmei Wang</u>, <u>Minjie Cheng</u>, Shen Yuan, Hongteng Xu
+  - <u>Qingmei Wang</u>, Minjie Cheng, Shen Yuan, Hongteng Xu
   - *The Annual Conference on Artificial Intelligence (AAAI 23).* [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26211)
  
 
