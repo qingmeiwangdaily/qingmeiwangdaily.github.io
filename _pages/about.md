@@ -26,6 +26,8 @@ In particular, She focuses on temporal point process, optimal transport and deep
 Feel free to reach her at <qingmeiwang@ruc.edu.cn> for collaborations or discussions!
 
 
+# Publications
+
 -**A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Point Processes**
   - <u>Qingmei Wang</u>, Yuxin Wu, Yujie Long, Jing Huang, Fengyuan Ran, Bing Su, Hongteng Xu
   - *The Annual Conference on Artificial Intelligence (AAAI 25).* [Link](https://arxiv.org/pdf/2501.04529)
