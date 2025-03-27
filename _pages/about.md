@@ -29,7 +29,7 @@ Feel free to reach her at <qingmeiwang@ruc.edu.cn> for collaborations or discuss
 # Selected Publications
 
 <dl>
-  <dt><img align="left" width="350"
+  <dt><img align="left" width="300"
 hspace="2" wspace="20" src="../images/BADMM_TPP.png">
 </dt>
   <dd><a href="https://arxiv.org/pdf/2501.04529"><strong>	
