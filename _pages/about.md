@@ -29,7 +29,7 @@ Feel free to reach her at <qingmeiwang@ruc.edu.cn> for collaborations or discuss
 # Publications
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left" width="350"
 hspace="0" wspace="20" src="../images/BADMM_TPP.png">
 </dt>
   <dd><a href="https://arxiv.org/pdf/2501.04529"><strong>	
@@ -42,7 +42,7 @@ A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Poi
 <hr>
 
 <dl>
-  <dt><img align="left" width="300"
+  <dt><img align="left" width="250"
 hspace="0" wspace="20" src="../images/clustering.png">
 </dt>
   <dd><a href=""><strong>Learning Structure-enhanced Temporal Point Processes with Gromov-Wasserstein Regularization</strong></a></dd>
