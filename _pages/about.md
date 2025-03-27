@@ -43,10 +43,9 @@ A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Poi
 
 
 
-
 <dl>
   <dt><img align="left" width="300"
-hspace="10" wspace="20" src="../images/scheme_hcl.pdf">
+hspace="10" wspace="20" src="../images/scheme_hcl.png">
 </dt>
   <dd><a href="https://ojs.aaai.org/index.php/AAAI/article/view/26211"><strong>	
 Hierarchical Contrastive Learning for Temporal Point Processes
