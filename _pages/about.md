@@ -28,6 +28,20 @@ Feel free to reach her at <qingmeiwang@ruc.edu.cn> for collaborations or discuss
 
 # Publications
 
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/BADMM_TPP.png">
+</dt>
+  <dd><a href="https://arxiv.org/pdf/2501.04529"><strong>	
+A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Point Processes
+</strong></a></dd>
+  <dd><u>Qingmei Wang</u>, Yuxin Wu, Yujie Long, Jing Huang, Fengyuan Ran, Bing Su, Hongteng Xu</dd>
+  <dd>The Annual Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+
 -**A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Point Processes**
   - <u>Qingmei Wang</u>, Yuxin Wu, Yujie Long, Jing Huang, Fengyuan Ran, Bing Su, Hongteng Xu
   - *The Annual Conference on Artificial Intelligence (AAAI 25).* [Link](https://arxiv.org/pdf/2501.04529)
