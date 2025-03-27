@@ -26,7 +26,7 @@ In particular, She focuses on temporal point process, optimal transport and deep
 Feel free to reach her at <qingmeiwang@ruc.edu.cn> for collaborations or discussions!
 
 
-# Publications
+# Selected Publications
 
 <dl>
   <dt><img align="left" width="350"
