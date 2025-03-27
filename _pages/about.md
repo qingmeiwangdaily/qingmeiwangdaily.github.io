@@ -29,7 +29,7 @@ Feel free to reach her at <qingmeiwang@ruc.edu.cn> for collaborations or discuss
 # Publications
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left" width="300"
 hspace="2" wspace="20" src="../images/BADMM_TPP.png">
 </dt>
   <dd><a href="https://arxiv.org/pdf/2501.04529"><strong>	
@@ -45,8 +45,8 @@ A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Poi
 
 
 <dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/HCL_TPP.png">
+  <dt><img align="left" width="300"
+hspace="10" wspace="20" src="../images/scheme_hcl.pdf">
 </dt>
   <dd><a href="https://ojs.aaai.org/index.php/AAAI/article/view/26211"><strong>	
 Hierarchical Contrastive Learning for Temporal Point Processes
