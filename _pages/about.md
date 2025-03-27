@@ -30,7 +30,7 @@ Feel free to reach her at <qingmeiwang@ruc.edu.cn> for collaborations or discuss
 
 <dl>
   <dt><img align="left" width="400"
-hspace="5" wspace="20" src="../images/BADMM_TPP.png">
+hspace="2" wspace="20" src="../images/BADMM_TPP.png">
 </dt>
   <dd><a href="https://arxiv.org/pdf/2501.04529"><strong>	
 A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Point Processes
