@@ -41,18 +41,31 @@ A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Poi
 
 <hr>
 
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/TPP_Clustering.png">
+</dt>
+  <dd><a href=""><strong>Learning Structure-enhanced Temporal Point Processes with Gromov-Wasserstein Regularization</strong></a></dd>
+  <dd>J<u>Qingmei Wang</u>, Fanmeng Wang, Bing Su, Hongteng Xu</dd>
+  <dd>The Web Conference workshop 2025</dd>
+</dl>
 
--**A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Point Processes**
-  - <u>Qingmei Wang</u>, Yuxin Wu, Yujie Long, Jing Huang, Fengyuan Ran, Bing Su, Hongteng Xu
-  - *The Annual Conference on Artificial Intelligence (AAAI 25).* [Link](https://arxiv.org/pdf/2501.04529)
+<hr>
 
--**Learning Structure-enhanced Temporal Point Processes with Gromov-Wasserstein Regularization**
-  - <u>Qingmei Wang</u>, Fanmeng Wang, Bing Su, Hongteng Xu
-  - *The Web Conference workshop 2025.* 
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/HCL_TPP.png">
+</dt>
+  <dd><a href="https://ojs.aaai.org/index.php/AAAI/article/view/26211"><strong>	
+Hierarchical Contrastive Learning for Temporal Point Processes
+</strong></a></dd>
+<dd><u>Qingmei Wang</u>, Minjie Cheng, Shen Yuan, Hongteng Xu</dd>
+<dd> <strong><i>Oral Presentation </i></strong> in The Annual Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023</dd>
+</dl>
+
+<hr>
  
--**Hierarchical Contrastive Learning for Temporal Point Processes**
-  - <u>Qingmei Wang</u>, Minjie Cheng, Shen Yuan, Hongteng Xu
-  - *The Annual Conference on Artificial Intelligence (AAAI 23).* [Link](https://ojs.aaai.org/index.php/AAAI/article/view/26211)
+
  
 
 # Service
