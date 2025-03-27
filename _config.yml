@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Qingmei Wang"
 description              : "Ph.D. student at Gaoling School of Artificial Intelligence (from the 2021 fall). "
-repository               : "QingmeiWang/qingmeiwang.github.io"
+repository               : "qingmeiWangdaily/qingmeiwangdaily.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Qingemi Wang"
-  avatar           : "images/android-chrome-192x192.png"
+  avatar           : "images/qingmei.png"
   bio              : "Renmin University of China"
   location         : "Beijing, China"
   employer         :
