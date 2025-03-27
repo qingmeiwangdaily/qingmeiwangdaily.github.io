@@ -43,7 +43,7 @@ A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Poi
 
 <dl>
   <dt><img align="left" width="400"
-hspace="-1" wspace="15" src="../images/TPP_Clustering.png">
+hspace="-5" wspace="20" src="../images/TPP_Clustering.png">
 </dt>
   <dd><a href=""><strong>Learning Structure-enhanced Temporal Point Processes with Gromov-Wasserstein Regularization</strong></a></dd>
   <dd><u>Qingmei Wang</u>, Fanmeng Wang, Bing Su, Hongteng Xu</dd>
