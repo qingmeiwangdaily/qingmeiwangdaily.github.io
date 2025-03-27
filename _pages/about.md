@@ -57,13 +57,12 @@ Hierarchical Contrastive Learning for Temporal Point Processes
 <hr>
  
 
-
+<br><br>
 
  
 
 # Service
-  - **Conference Reviewer:** ICML *(2023-2024)*, NeurIPS *(2023-2024)*, ICLR *(2024)*, KDD *(2024)*.
-
+- **Conference Reviewer:** ICML *(2023-2024)*, NeurIPS *(2023-2024)*, ICLR *(2024)*, KDD *(2024)*.
 
 # Teaching
 - *2024*, Massive Data Mining (Teaching Assistant)
