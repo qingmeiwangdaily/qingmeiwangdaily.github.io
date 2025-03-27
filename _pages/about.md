@@ -28,50 +28,29 @@ Feel free to reach her at <qingmeiwang@ruc.edu.cn> for collaborations or discuss
 
 # Publications
 
-<style>
-  dl {
-    display: flex;
-    align-items: flex-start;
-    margin-bottom: 20px;
-  }
-  
-  dt {
-    flex-shrink: 0;
-  }
-  
-  dd {
-    margin: 0;
-  }
-</style>
-
 <dl>
-  <dt>
-    <img width="400" hspace="5" wspace="20" src="../images/BADMM_TPP.png">
-  </dt>
-  <dd>
-    <a href="https://arxiv.org/pdf/2501.04529"><strong>	
-    A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Point Processes
-    </strong></a><br>
-    <u>Qingmei Wang</u>, Yuxin Wu, Yujie Long, Jing Huang, Fengyuan Ran, Bing Su, Hongteng Xu <br>
-    The Annual Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025
-  </dd>
+  <dt><img align="left" width="400"
+hspace="5" wspace="20" src="../images/BADMM_TPP.png">
+</dt>
+  <dd><a href="https://arxiv.org/pdf/2501.04529"><strong>	
+A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Point Processes
+</strong></a></dd>
+  <dd><u>Qingmei Wang</u>, Yuxin Wu, Yujie Long, Jing Huang, Fengyuan Ran, Bing Su, Hongteng Xu</dd>
+  <dd>The Annual Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</dd>
 </dl>
 
 <hr>
 
 <dl>
-  <dt>
-    <img width="400" hspace="5" wspace="20" src="../images/TPP_Clustering.png">
-  </dt>
-  <dd>
-    <a href=""><strong>Learning Structure-enhanced Temporal Point Processes with Gromov-Wasserstein Regularization</strong></a><br>
-    <u>Qingmei Wang</u>, Fanmeng Wang, Bing Su, Hongteng Xu <br>
-    The Web Conference workshop 2025
-  </dd>
+  <dt><img align="left" width="400"
+hspace="0" wspace="15" src="../images/TPP_Clustering.png">
+</dt>
+  <dd><a href=""><strong>Learning Structure-enhanced Temporal Point Processes with Gromov-Wasserstein Regularization</strong></a></dd>
+  <dd><u>Qingmei Wang</u>, Fanmeng Wang, Bing Su, Hongteng Xu</dd>
+  <dd>The Web Conference workshop 2025</dd>
 </dl>
 
 <hr>
-
 
 
 <dl>
