@@ -57,7 +57,7 @@ Hierarchical Contrastive Learning for Temporal Point Processes
 <hr>
  
 
-<br><br>
+<br>
 
  
 
