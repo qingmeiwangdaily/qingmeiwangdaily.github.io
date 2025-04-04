@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Qingmei Wang (王庆梅 in Chinese) is currently a final-year PhD student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of
+Qingmei Wang (王庆梅 in Chinese) is currently a fourth-year PhD student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of
 China](http://www.ruc.edu.cn/), under the supervision of [Prof. Hongteng Xu](https://hongtengxu.github.io/). 
 
 Her research lies in structured data-oriented machine learning and applications. 
