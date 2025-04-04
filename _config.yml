@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qingemi Wang"
+  name             : "Qingmei Wang"
   avatar           : "images/qingmei.png"
   bio              : "Renmin University of China"
   location         : "Beijing, China"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :  "https://github.com/qingmeiwangdaily"
+  github           :  "qingmeiwangdaily"
   google_plus      :
   keybase          :
   instagram        :
